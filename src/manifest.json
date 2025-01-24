@@ -5,7 +5,7 @@
 	"Description": "Adds compatability for Dwarven Expansion jewelry making with minerals in More Custom Gems and Minerals",
 	"UniqueID": "mytigio.dwarven_expansion_mcgm",
 	"MinimumApiVersion": "2.11.2",
-	"UpdateKeys": ["Nexus:xxxxx"],
+	"UpdateKeys": ["Nexus:31120"],
 	"Dependencies": [
 		{
 			"UniqueID": "mytigio.dwarven_expansion",
